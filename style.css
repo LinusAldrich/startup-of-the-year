@@ -1,0 +1,24 @@
+.btn-custom{
+    background-color: rgb(116, 207, 250);
+    font-family: 'Roboto Slab', serif;
+    font-weight: bold;
+}
+
+.btn-custom:hover{
+    background-color: rgb(9, 177, 255);
+}
+
+.bg-custom{
+    background-color:  white;
+    font-family: 'Roboto Slab', serif;
+    font-weight: bold;
+    display: inline-block;
+    display: flex;
+}
+
+
+.jumbotron{
+    background-color: white;
+    font-family: 'Roboto Slab', serif;
+    font-weight: bold;
+}
